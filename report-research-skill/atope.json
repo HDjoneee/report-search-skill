@@ -1,0 +1,8 @@
+{
+  "name": "report-research",
+  "description": "多源学术/行业报告检索与对比分析",
+  "version": "1.0.0",
+  "trigger_keywords": ["检索", "多源对比", "搜索学术和行业", "研究现状", "参考资料"],
+  "icon": "search",
+  "color": "#4A90D9"
+}
